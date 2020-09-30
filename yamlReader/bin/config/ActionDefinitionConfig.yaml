@@ -1,0 +1,12 @@
+!!container.ActionDefinition
+name: actionA
+type: usercreatesample.actions.ActionTestA
+---
+!!container.ActionDefinition
+name: actionB
+type: usercreatesample.actions.ActionTestB
+---
+!!container.ActionDefinition
+name: actionC
+type: usercreatesample.actions.ActionTestC
+
